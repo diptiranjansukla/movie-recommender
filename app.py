@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
+import sklearn
 
 
 def fetch_poster(movie_id):
