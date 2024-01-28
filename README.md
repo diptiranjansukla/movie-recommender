@@ -1,1 +1,1 @@
-# movie-recommender
+ Developed and implemented a comprehensive end-to-end movie recommendation system using advanced machine learning and data analysis .Designed a user-friendly interface to improve communication and provide users with tailored movie recommendations based on their preferences.
